@@ -1,4 +1,3 @@
-import re
 from fabric import Connection
 from auth_logs import logs_menu as auth_logs_menu
 from system_logs import filter_logs as sys_logs_filter
